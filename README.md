@@ -1,2 +1,3 @@
 # Port-scanning-tool
 here i had made a port scanning tool 
+The above tools show how our port scanner tool work. First it asks the user to enter the target Ip address and then it checks if it is correct or not and if not, it asks for the input again then if the input is valid then it proceeds further. Then it asks for a port range and validates that too if everything is ok then. the program tries to connect to each port one by one, then if the connection is success then it will mark the port as open, and if not it moves forward and check for the future check for other port Once all ports are checked, it displays the open ports found and then end the scan. 
